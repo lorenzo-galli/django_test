@@ -5,3 +5,6 @@ from django.http import HttpResponse
 
 def homepage(request):
     return render(request, 'homepage/homepage.html')
+
+def albums(request):
+    return render(request, 'homepage/albums.html')
