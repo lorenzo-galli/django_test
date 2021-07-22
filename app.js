@@ -1,0 +1,2 @@
+document.onload(alert("Hellooooooooooooooo"))
+
